@@ -1,5 +1,5 @@
 # Thundercave
 
-Help
+## Help
 
-What am i doing
+What am i doing.
